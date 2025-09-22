@@ -1,5 +1,5 @@
 * DevOps introduction:
-
+satish
 what is meant by devepos
 
 DEVPOS= development + operation stream
