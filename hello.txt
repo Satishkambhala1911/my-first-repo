@@ -1,0 +1,100 @@
+* DevOps introduction:
+
+what is meant by devepos
+
+DEVPOS= development + operation stream
+
+1,developers who write the code.
+2,operation team - testing/managing/developing.
+
+
+* DevOPS life cycle
+
+There are 8 devops life cycle faces:
+
+# Plan - define what to build.
+# Develop - developer write the code.
+# Bulid - compling code into executable fromat.
+# Test - checks for bugs automatical.
+# Release - write permission for deployment.
+# Deploy - pushing executable format into server or app store.
+# Operate - customer using application.
+# Monitor - analyse services and feedbacks.
+
+
+ 
+* GitHub
+
+what is meant by git and GitHub ?
+
+Git: It is a version control system.
+
+GitHub: It is an online based devops tool, Where we store git-projects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
